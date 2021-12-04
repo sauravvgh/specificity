@@ -1,5 +1,5 @@
 #apple{
-   color: red; 
+   color: red !important;
 }
 .h1{
     color:blue;
