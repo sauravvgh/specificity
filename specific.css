@@ -1,0 +1,7 @@
+#apple{
+   color: red; 
+}
+.h1{
+    color:blue;
+}
+/* the specificity of id is more powerful than a class or an element although according to css property the 
